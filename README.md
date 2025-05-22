@@ -12,4 +12,4 @@ Yapacağınız Şeyler Kısıtlı Olsada Güzeldir
 
 Son olarak 2 ay sonra güncelleme yaptığım için özür dilerim.
 
-JAL.js Öğrenmek İçin Denemedivin Sitesine Gidiniz: https://turkum-webci.github.io/Denemediw4.github.io/
+JAL.js Öğrenmek İçin Denemedivin Sitesine Gidiniz: https://turkum-webci.github.io/Denemediw4/
